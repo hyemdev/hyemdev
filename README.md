@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Shark&color=0:690A21,100:C1305D&height=200&section=header&text=HI!I'mhyemDev&fontSize=60&fontColor=fff" alt="hyem dev" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f28900&height=200&section=header&text=HyemDev's%20Github&fontSize=60&fontColor=fff" alt="깃허브헤더" />
+
+
 
 <div>
+  <p> 🛠 기술 스택 </p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=fff"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff"/>
@@ -22,8 +24,9 @@
   <br/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=fff"/>
 </div>
-
+  <br/>
 <div>
+  <p> ⚙ 활용 툴 </p>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=fff"/>
   <br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff"/>
@@ -33,7 +36,12 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Notion-fff?style=flat&logo=Notion&logoColor=000"/>
 </div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Shark&color=0:C1305D,100:690A21&height=150&section=footer" alt="" />  
+  <br/>
+<div> 
+  <p>📚 포트폴리오 보러가기</p>
+  <a href="https://www.notion.so/hyemdev/5025b165ca1f438285586a6a1926362f"><img src="https://img.shields.io/badge/Notion-fff?style=flat&logo=Notion&logoColor=dce30e"/></a>
+</div>
+  <br/>
+	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyemdev&layout=compact)](https://github.com/hyemdev/github-readme-stats)><br>  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f28900&height=100&section=footer" alt="깃허브푸터" />  
 </div>
