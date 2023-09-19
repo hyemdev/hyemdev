@@ -42,6 +42,6 @@
   <a href="https://www.notion.so/hyemdev/5025b165ca1f438285586a6a1926362f"><img src="https://img.shields.io/badge/Notion-fff?style=flat&logo=Notion&logoColor=dce30e"/></a>
 </div>
   <br/>
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyemdev&layout=compact)](https://github.com/hyemdev/github-readme-stats)><br>  <br/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyemdev&layout=compact" /><br>  <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=f28900&height=100&section=footer" alt="깃허브푸터" />  
 </div>
